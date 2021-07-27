@@ -25,6 +25,8 @@ select robot type:
 4) Arachnid
 5) Radial
 6) Aeronautical
+
+
 Enter number: 3
 
 Roboname "NIKET(Quadrupedal)" Executing Task "MAKE A SAMMICH" [==============================] 100% Completed
@@ -43,6 +45,8 @@ select report type:
 2) View report by RobotType
 3) View report by RobotName
 4) Summary Report
+
+
 Enter number: 1
 -----------------------------------------------------------------------
 Robot Name | Type        | Task                | ETA(ms) | Status    |
@@ -75,6 +79,8 @@ select report type:
 2) View report by RobotType
 3) View report by RobotName
 4) Summary Report
+
+
 Enter number: 2
 -------------------------------
 Robot Type  | Executed count |
@@ -92,6 +98,8 @@ select report type:
 2) View report by RobotType
 3) View report by RobotName
 4) Summary Report
+
+
 Enter number: 3
 ------------------------------
 Robot Name | Executed count |
@@ -108,6 +116,8 @@ select report type:
 2) View report by RobotType
 3) View report by RobotName
 4) Summary Report
+
+
 Enter number: 4
 
 
