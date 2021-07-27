@@ -15,6 +15,8 @@
 1. Run python main.py
 
 **C:\Users\A740479\Desktop\python_project>python main.py**
+
+
 Enter robot name:Niket
 select robot type:
 1) Unipedal
@@ -35,6 +37,7 @@ Roboname "NIKET(Quadrupedal)" Executing Task "SWEEP THE HOUSE" [================
 **2. Run reports �**
 
 **C:\Users\A740479\Desktop\python_project>python view_report.py**
+
 select report type:
 1) View detail report
 2) View report by RobotType
@@ -66,6 +69,7 @@ Niket      | Quadrupedal | sweep the house     | 3000    | Completed |
 
 
 **C:\Users\A740479\Desktop\python_project>python view_report.py**
+
 select report type:
 1) View detail report
 2) View report by RobotType
@@ -81,6 +85,8 @@ Quadrupedal | 5              |
 
 
 **C:\Users\A740479\Desktop\python_project>python view_report.py**
+
+
 select report type:
 1) View detail report
 2) View report by RobotType
@@ -95,6 +101,8 @@ Robot Name | Executed count |
 Niket      | 5              |
 
 **C:\Users\A740479\Desktop\python_project>python view_report.py**
+
+
 select report type:
 1) View detail report
 2) View report by RobotType
