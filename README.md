@@ -30,9 +30,13 @@ select robot type:
 Enter number: 3
 
 Roboname "NIKET(Quadrupedal)" Executing Task "MAKE A SAMMICH" [==============================] 100% Completed
+
 Roboname "NIKET(Quadrupedal)" Executing Task "RAKE THE LEAVES" [==============================] 100% Completed
+
 Roboname "NIKET(Quadrupedal)" Executing Task "GIVE THE DOG A BATH" [==============================] 100% Completed
+
 Roboname "NIKET(Quadrupedal)" Executing Task "BAKE SOME COOKIES" [==============================] 100% Completed
+
 Roboname "NIKET(Quadrupedal)" Executing Task "SWEEP THE HOUSE" [==============================] 100% Completed
 
 
