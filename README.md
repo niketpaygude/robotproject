@@ -140,8 +140,12 @@ Niket
 
 **Reports populated Under Reports folder:-**
 
+We can view this data in CSV format too.
+
 detail_task_records.csv
+
 robot_name.csv
+
 robot_type.csv
 
 
